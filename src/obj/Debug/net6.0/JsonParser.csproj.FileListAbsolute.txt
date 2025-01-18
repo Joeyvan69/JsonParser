@@ -1,0 +1,15 @@
+E:\workspace\JsonParser\src\bin\Debug\net6.0\JsonParser.exe
+E:\workspace\JsonParser\src\bin\Debug\net6.0\JsonParser.deps.json
+E:\workspace\JsonParser\src\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+E:\workspace\JsonParser\src\bin\Debug\net6.0\JsonParser.dll
+E:\workspace\JsonParser\src\bin\Debug\net6.0\JsonParser.pdb
+E:\workspace\JsonParser\src\obj\Debug\net6.0\JsonParser.csproj.AssemblyReference.cache
+E:\workspace\JsonParser\src\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\JsonParser\src\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+E:\workspace\JsonParser\src\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+E:\workspace\JsonParser\src\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+E:\workspace\JsonParser\src\obj\Debug\net6.0\JsonParser.dll
+E:\workspace\JsonParser\src\obj\Debug\net6.0\refint\JsonParser.dll
+E:\workspace\JsonParser\src\obj\Debug\net6.0\JsonParser.pdb
+E:\workspace\JsonParser\src\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+E:\workspace\JsonParser\src\obj\Debug\net6.0\ref\JsonParser.dll
